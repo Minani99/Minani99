@@ -8,6 +8,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=python&logoColor=ff7f00" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
