@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto)
+![header](https://capsule-render.vercel.app/api?type=venom&color=black)
