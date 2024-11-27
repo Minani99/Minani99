@@ -1,6 +1,5 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Minani's%20GitHub&fontSize=40&FontColor=black)
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Minani's%20GitHub&fontSize=40&FontColor=black)
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
