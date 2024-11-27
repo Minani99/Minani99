@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=#462679&text=Minani's%20GitHub&fontSize=40&FontColor=#020715)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Minani's%20GitHub&fontSize=40&FontColor=#020715)
 
 
 <!--내용 부분-->
