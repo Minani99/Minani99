@@ -1,12 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome to Minani's GitHub%20render&fontSize=90" />
-
-
-<!--내용 부분-->
-<h3 align="center">✨ Study ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-</div>
+![header](https://capsule-render.vercel.app/api?
+type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
+&center=false&vCenter=false&multiline=true&repeat=true&width=1000
+&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
