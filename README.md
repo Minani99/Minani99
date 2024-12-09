@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient=6994&height=300&section=header&text=Welcome to Minani's GitHub%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome to Minani's GitHub%20render&fontSize=90" />
 
 
 <!--내용 부분-->
