@@ -1,5 +1,4 @@
-<!-- 헤더 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Minani's%20GitHub&fontSize=70&fontAlign=50&desc=Welcome%20to%20My%20Dev%20Space!&descAlign=60&descSize=20" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FEEA&background=1E1E1E00&center=true&vCenter=true&width=435&lines=Welcome+to+Minani's+GitHub!;백엔드부터+AI까지+뚝딱뚝딱;지금도+성장하는+개발자입니다!" />
 
 ---
 
