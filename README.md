@@ -55,7 +55,7 @@ Python과 Java를 중심으로 실제 문제 해결형 프로젝트를 진행하
 
 <div align="center">
   
-![Minani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minani99&show_icons=true&theme=radical&hide_border=true&hide_rank=false)
+<!--![Minani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minani99&show_icons=true&theme=radical&hide_border=true&hide_rank=false)-->
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minani99&layout=compact&theme=tokyonight&hide_border=true)
 
