@@ -1,23 +1,23 @@
-<!-- 🎨 1단: 깔끔하고 환영하는 느낌의 정적 헤더 이미지 -->
+<!-- 🎨 1st Layer: Clean and Welcoming Static Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20Welcome%20to%20Minani's%20GitHub!%20✨&fontSize=40&fontAlign=50&fontColor=ffffff" />
 
-<!-- 🌀 2단: 소개하는 타이핑 움짤 -->
+<!-- 🌀 2nd Layer: Typing Animation Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FEEA&background=1E1E1E00&center=true&vCenter=true&width=435&lines=백엔드부터+AI까지+뚝딱뚝딱;지금도+성장하는+개발자입니다;계획하고+해내는+사람%2C+Minani!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FEEA&background=1E1E1E00&center=true&vCenter=true&width=435&lines=From+Backend+to+AI;A+Developer+Always+Growing;Planner+and+Doer%2C+Minani!" />
 </p>
 
 ---
 
 ## 📌 About Me
 
-안녕하세요! 👋  
-저는 **계획적으로 성장하고, 팀과 함께 나아가는 걸 좋아하는 예비 백엔드 개발자 박민환**입니다.  
-Python과 Java를 중심으로 실제 문제 해결형 프로젝트를 진행하며, AI·백엔드·데이터를 아우르는 개발자로 성장 중입니다.
+Hi there! 👋  
+I'm **Minhwan Park, a backend developer who grows through planning and collaboration.**  
+I focus on solving real-world problems through projects based on **Python and Java**, and I'm expanding into AI, backend systems, and data visualization.
 
-- 🧠 주언어: Java / Python  
-- 🤹‍♂️ 사용 경험 언어: C, JavaScript  
-- 📈 현재 관심사: AI 연동 시스템, 실시간 백엔드 처리, 데이터 시각화  
-- 🤝 개발철학: "개발은 사람과 사람을 연결하는 과정"
+- 🧠 Main Languages: Java / Python  
+- 🤹‍♂️ Also Experienced With: C, JavaScript  
+- 📈 Current Interests: AI-integrated systems, real-time backend processing, data visualization  
+- 🤝 Dev Philosophy: "Development is the process of connecting people"
 
 ---
 
@@ -41,22 +41,22 @@ Python과 Java를 중심으로 실제 문제 해결형 프로젝트를 진행하
 
 ## 🧑‍💻 Featured Projects
 
-| 프로젝트명 | 설명 | 기간 | 링크 |
-|------------|------|------|------|
-| **GarbageGuard** | YOLOv8 기반 건설폐기물 분석 및 통계 시각화 시스템 | 2025.3~진행중 | 🔗 [바로가기](https://github.com/Minani99/GarbageGuard) |
-| **ERP 시스템 설계** | Java+MySQL 기반 인사/급여/재고 관리 백오피스 | 2025.3 | 🔗 준비중 |
-| **SAP 경매 플랫폼** | 실시간 채팅/자동입찰 가능한 중고 경매 앱 | 2024.9~12 | 🔗 [GitHub](https://github.com/PH-K-1/ph-k.git) |
-| **GPT 추천 시스템** | GPT API + 크롤링 기반 개발자용 라이브러리 추천 도구 | 2023.9~12 | 🔗 준비중 |
-| **ToA 일정 공유 앱** | 그룹 기반 일정 추천 기능을 갖춘 Todo 앱 | 2023.3~6 | 🔗 [GitHub](https://github.com/ToA-Capstone/ToA) |
+| Project Name | Description | Period | Link |
+|--------------|-------------|--------|------|
+| **GarbageGuard** | Construction waste analysis & data visualization using YOLOv8 | Mar-June 2025 | 🔗 [View Project](https://github.com/Minani99/GarbageGuard) |
+| **ERP System Design** | HR/Payroll/Inventory management system using Java + MySQL | Mar 2025 | 🔗 Coming soon |
+| **SAP Auction Platform** | Real-time chat & auto-bid secondhand auction app | Sep–Dec 2024 | 🔗 [GitHub](https://github.com/PH-K-1/ph-k.git) |
+| **GPT-based Recommendation System** | Dev library recommendation tool using GPT API + Web Crawling | Sep–Dec 2023 | 🔗 Coming soon |
+| **ToA Group Schedule App** | Group-based smart schedule suggestion & task sharing | Mar–Jun 2023 | 🔗 [GitHub](https://github.com/ToA-Capstone/ToA) |
 
 ---
 
 ## 📊 Stats & Logs
 
 <div align="center">
-  
+
 <!--![Minani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minani99&show_icons=true&theme=radical&hide_border=true&hide_rank=false)-->
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minani99&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -66,10 +66,9 @@ Python과 Java를 중심으로 실제 문제 해결형 프로젝트를 진행하
 ## 💬 Contact
 
 - ✉️ minhwanpark@naver.com  
-- 🧾 [개발 Velog 블로그](https://velog.io/@minani_99/posts)
+- 🧾 [Velog Blog (Korean)](https://velog.io/@minani_99/posts)
 
 ---
 
 <!-- 🎉 Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>
-
