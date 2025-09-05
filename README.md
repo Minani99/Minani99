@@ -1,28 +1,19 @@
-<!-- =========================================================
-✨ Minani (Minhwan Park) — GitHub Profile README
-- 가벼운 외부 위젯만 사용 (SVG 중심)
-- 다크/라이트 모드 모두 깔끔하게 보이도록 색 대비 조정
-- 링크/배지/프로젝트 카드 정리
-========================================================= -->
+<!-- 🎨 Full-width Centered Header -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=220&section=header&text=✨%20Welcome%20to%20Minani's%20GitHub!%20✨&fontSize=36&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=twinkling"
+    alt="Welcome Banner"
+    width="100%"
+  />
+</div>
 
-<!-- 🎨 1) Hero Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=220&section=header&text=Minhwan%20Park%20( Minani )&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=ffffff" alt="header" />
-</p>
-
-<!-- 🧷 Quick Badges -->
-<p align="center">
-  <a href="https://github.com/Minani99"><img src="https://img.shields.io/badge/GitHub-Minani99-181717?logo=github" /></a>
-  <a href="mailto:minhwanpark@naver.com"><img src="https://img.shields.io/badge/Email-minhwanpark%40naver.com-0A66C2?logo=minutemailer&logoColor=white" /></a>
-  <a href="https://velog.io/@minani_99/posts"><img src="https://img.shields.io/badge/Velog-Blog-20C997?logo=velog&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Minani99&style=flat&label=Profile+Views" alt="views" />
-</p>
-
-<!-- 🌀 2) Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=600&lines=From+Backend+to+AI;A+Developer+Always+Growing;Planner+and+Doer%2C+Minani!;Python+%2B+Java+%F0%9F%9A%80+Data+%26+AI" alt="typing" />
-</p>
-
+<!-- 🌀 Typing Intro (Centered) -->
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FEEA&background=1E1E1E00&center=true&vCenter=true&width=700&lines=From+Backend+to+AI;A+Developer+Always+Growing;Planner+and+Doer%2C+Minani!"
+    alt="Typing Intro"
+  />
+</div>
 ---
 
 ## 👋 About Me
@@ -52,8 +43,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=fff)
-
-> ※ 필요 시 위 배지 라인업은 주석으로 토글하거나 순서만 바꿔도 시각 밸런스가 좋아요.
 
 ---
 
